@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ukymiak
 - 👀 I’m interested in python and OpenApi 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and neo4j
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
